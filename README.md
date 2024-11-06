@@ -6,6 +6,6 @@ Este perfil pertence a **Ian Tales Sterza.**
 * Estou aprendendo a usar as plataformas scrath e p5js, fornecido pela plataforma AluraStart.
 * Utilizo esse espaço para organização e compartilhamentp dos projetos desenvolvidos em sala.
 
-* ### Meu Contsto :
+* ### Meu Contato :
 
 iansterza@gmail.com
